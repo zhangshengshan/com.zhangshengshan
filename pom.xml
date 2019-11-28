@@ -3,7 +3,7 @@
     <groupId>io.github.zhangshengshan</groupId>
     <artifactId>zss</artifactId>
     <packaging>jar</packaging>
-    <version>7.1.7</version>
+    <version>7.1.8-SNAPSHOT</version>
     <name>my-app</name>
     <description>
         a package which implements some machine learing methods
@@ -16,7 +16,7 @@
         <developerConnection>
             scm:git:https://github.com/zhangshengshan/com.zhangshengshan.git
         </developerConnection>
-        <tag>zss-7.1.7</tag>
+        <tag>HEAD</tag>
         <url>http://io.github.zhangshengshan</url>
     </scm>
     <licenses>
