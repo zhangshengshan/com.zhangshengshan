@@ -10,7 +10,7 @@
     <url>http://github.zhangshengshan.ig</url>
     <scm>
         <connection>
-            scm:git:https://github.com/zhangshengshan/com.zhangshengshan.git
+            scm:git:https://github.com/zhangshengshan/JavaProjTemplate.git
         </connection>
         <developerConnection>
             scm:git:https://github.com/zhangshengshan/com.zhangshengshan.git
