@@ -5,9 +5,7 @@
     <packaging>jar</packaging>
     <version>7.1.8-SNAPSHOT</version>
     <name>my-app</name>
-    <description>
-        a package which implements some machine learing methods
-    </description>
+    <description> JAVA项目模板 </description>
     <url>http://github.zhangshengshan.ig</url>
     <scm>
         <connection>
